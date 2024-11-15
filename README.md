@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faysal-ahmed01
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning C , JavaScript and Jave programming
 
 <!---
 0xFaysal/0xFaysal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
