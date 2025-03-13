@@ -10,7 +10,7 @@ I am a passionate programmer and a tech enthusiast. I love to explore new techno
 
 I believe that sharing knowledge and working together is the best way to grow as a developer. In my free time, I like to read tech blogs, watch coding tutorials, and participate in coding challenges.
 
-I am always open to new ideas and suggestions, so feel free to reach out to me if you want to connect or collaborate on a project.
+##### I am always open to new ideas and suggestions, so feel free to reach out to me if you want to connect or collaborate on a project
 
 - 👀 I’m interested in Coding
 - 🙂
