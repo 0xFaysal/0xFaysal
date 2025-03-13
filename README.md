@@ -6,7 +6,7 @@
 
 ---
 <p align="right">
-<a href="www.linkedin.com/in/faysal-ahmed-fahim01" target="_blank">
+<a href="https://www.linkedin.com/in/faysal-ahmed-fahim01" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </a>
  <!-- <a href="https://twitter.com/0xFaysal" target="_blank">
@@ -23,70 +23,123 @@
    <!-- </a> <a href="https://www.youtube.com/@0xFaysal" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube"></a> <a href="https://www.twitch.tv/0xfaysal" target="_blank"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=Twitch&logoColor=white" alt="Twitch"></a> -->
    </p>
 
-I am a passionate programmer and a tech enthusiast. I love to explore new technologies and learn new programming languages. I am currently focusing on web development and learning Computer Engineering fundamentals.I have experience in various programming languages such as C/C++, Java, JavaScript and Python. I am also familiar with web development frameworks like React and Node.js. I enjoy working on projects that challenge my skills and allow me to learn new things. I am always looking for opportunities to collaborate with other developers and contribute to open-source projects.
-
-I believe that sharing knowledge and working together is the best way to grow as a developer. In my free time, I like to read tech blogs, watch coding tutorials, and participate in coding challenges.
+I am a passionate Full Stack Web Developer with a strong foundation in modern web technologies. My expertise lies in creating responsive, user-centric web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I have a deep understanding of frontend development with React.js and its ecosystem, complemented by robust backend development skills with Node.js and Express.js.
 
 #### I am always open to new ideas and suggestions, so feel free to reach out to me if you want to connect or collaborate on a project
 
+### 🌐 Web Development Expertise
+
+- **Frontend Development**:
+  - ⚛️ React.js
+  - 🎨 Tailwind CSS,CSS, DaisyUi, SASS,
+  - 📱 Responsive Design
+  - 🔄 State Management (Context API)
+
+- **Backend Development**:
+  - 🚀 Node.js & Express.js
+  - 📦 RESTful APIs
+  - 🗄️ MongoDB
+  - 🔥 Firebase
+
+- **Tools & Technologies**:
+  - 📊 Version Control (Git)
+  - 🛠️ Webpack, Babel
+  - 🔍 Chrome DevTools
+  - 📱 Progressive Web Apps (PWA)
+
+<!-- I am a passionate programmer and a tech enthusiast. I love to explore new technologies and learn new programming languages. I am currently focusing on web development and learning Computer Engineering fundamentals.I have experience in various programming languages such as C/C++, Java, JavaScript and Python. I am also familiar with web development frameworks like React and Node.js. I enjoy working on projects that challenge my skills and allow me to learn new things. I am always looking for opportunities to collaborate with other developers and contribute to open-source projects.
+
+I believe that sharing knowledge and working together is the best way to grow as a developer. In my free time, I like to read tech blogs, watch coding tutorials, and participate in coding challenges. -->
+
+### 🎯 Web Development Goals
+
+- 📈 Master Next.js and TypeScript
+- 🌐 Build scalable microservices
+- 🚀 Learn GraphQL
+- 💻 Contribute to major web development frameworks
+- 📱 Develop progressive web applications
+- 🔒 Enhance web security practices
+
 <br>
 
-### My Activities
+### Professional Summary
 
-- I am a **Computer Science** student at **United International University(UIU)**
-- I am currently learning **Data Structures and Algorithms** in **C/C++**
-- I complete Object oriented programming in **Java** and **JavaScript**
-- I am expertising in **Web Development** using **React.js** and **Node.js**
-- I use **Python** for **Automation** and **Scripting**
-- I am exploring **Machine Learning** and **Artificial Intelligence**
-- I am interested in **Competitive Programming** and **Problem Solving**
-- I am looking for **Internship** opportunities
-- I am open to **collaborations** on interesting projects
+- 🎓 **Education**: Pursuing Computer Science at United International University (UIU)
+- 💻 **Technical Focus**:
+  - Advanced Data Structures & Algorithms in C/C++
+  - Full-stack Web Development with React.js & Node.js
+  - Automation & Scripting using Python
+  - Object-Oriented Programming in Java & JavaScript
 
+### Current Endeavors
+
+- 🔍 Researching and implementing advanced algorithms and data structures
+- 🌐 Developing responsive web applications using modern frameworks
+- 🤖 Exploring Machine Learning & Artificial Intelligence concepts
+- 🏆 Actively participating in competitive programming challenges
+- 🔄 Contributing to open-source projects
+
+### Professional Goals
+
+- 📈 Seeking software development internship opportunities
+- 🤝 Open to collaborative projects in web development and AI
+- 📚 Expanding expertise in cloud technologies and microservices
+- 🎯 Building scalable and innovative software solutions
+
+<!-- ### 💼 Featured Web Projects
+
+| Project | Tech Stack | Live Demo | Code |
+|---------|------------|-----------|------|
+| E-commerce Platform | React, Node.js, MongoDB | [Demo](link) | [Code](link) |
+| Social Media App | MERN Stack, Socket.io | [Demo](link) | [Code](link) |
+| Portfolio Website | Next.js, Tailwind | [Demo](link) | [Code](link) | -->
 ---
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
+<!-- Programming Languages -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-     <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" alt="React router" title="React router" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/000/fff" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="30" height="30"/>
+<!-- Web Development - Frontend -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" alt="React router" title="React router" />
 
+<!-- Web Development - Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/express/000/fff" />
+
+<!-- Databases & Cloud -->
+<img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+
+<!-- Data Visualization -->
+<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="30" height="30"/>
+
+<!-- CSS Frameworks & Libraries -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/daisyui" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/githubcopilot/000/fff" />
 
+<!-- Version Control & Collaboration -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/000/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/githubcopilot/000/fff" />
 
- <img height="32" width="32" src="https://cdn.simpleicons.org/canva" />
+<!-- Design Tools -->
+<img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/canva" />
+
+<!-- IDEs -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/000/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/000/fff" />
-
 </p>
-<!-- <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" /> -->
-<!-- <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> -->
-
-<!---
-0xFaysal/0xFaysal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xFaysal&show_icons=true&locale=en&layout=compact" alt="0xFaysal" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xFaysal&show_icons=true&locale=en" alt="0xFaysal" /></p> -->
 
 ---
 
