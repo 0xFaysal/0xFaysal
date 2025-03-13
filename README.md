@@ -28,7 +28,7 @@ I believe that sharing knowledge and working together is the best way to grow as
 
 ---
 <h3 align="left">Languages and Tools:</h3>
-
+<p align="left">
 <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -60,6 +60,7 @@ I believe that sharing knowledge and working together is the best way to grow as
 <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/000/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/000/fff" />
 
+</p>
 <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" /> -->
 <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> -->
 
