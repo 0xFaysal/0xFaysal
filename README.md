@@ -10,7 +10,7 @@ I am a passionate programmer and a tech enthusiast. I love to explore new techno
 
 I believe that sharing knowledge and working together is the best way to grow as a developer. In my free time, I like to read tech blogs, watch coding tutorials, and participate in coding challenges.
 
-##### I am always open to new ideas and suggestions, so feel free to reach out to me if you want to connect or collaborate on a project
+#### I am always open to new ideas and suggestions, so feel free to reach out to me if you want to connect or collaborate on a project
 
 - 👀 I’m interested in Coding
 - 🙂
@@ -28,8 +28,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><img src="https://profile-counter.glitch.me/{0xFaysal}/count.svg" alt="0xFaysal :: Visitor's Count" /></p>
 
 ---
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFaysal&langs_count=10&theme=tokyonight&layout=compact" alt="0xFaysal :: Top Langs" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFaysal&langs_count=10&theme=tokyonight&layout=compact" alt="0xFaysal :: Top Langs" />
   &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=0xFaysal&show_icons=true&theme=synthwave" alt="0xFaysal :: Profile Stats" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xFaysal&show_icons=true&theme=synthwave" alt="0xFaysal :: Profile Stats" /></p>
 
 ----
