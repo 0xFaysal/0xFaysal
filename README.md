@@ -5,6 +5,23 @@
 </p>
 
 ---
+<p align="right">
+<a href="www.linkedin.com/in/faysal-ahmed-fahim01" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+ <!-- <a href="https://twitter.com/0xFaysal" target="_blank">
+ <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter">
+ </a> -->
+  <a href="https://www.instagram.com/faysal_fahim_/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+  </a>
+  <a href="mailto:faysalfahim3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
+
+   <!-- <a href="https://www.facebook.com/FaysalAHMEDFAHIM/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook">
+   </a> -->
+   <!-- </a> <a href="https://www.youtube.com/@0xFaysal" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube"></a> <a href="https://www.twitch.tv/0xfaysal" target="_blank"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=Twitch&logoColor=white" alt="Twitch"></a> -->
+   </p>
 
 I am a passionate programmer and a tech enthusiast. I love to explore new technologies and learn new programming languages. I am currently focusing on web development and learning Computer Engineering fundamentals.I have experience in various programming languages such as C/C++, Java, JavaScript and Python. I am also familiar with web development frameworks like React and Node.js. I enjoy working on projects that challenge my skills and allow me to learn new things. I am always looking for opportunities to collaborate with other developers and contribute to open-source projects.
 
@@ -27,7 +44,7 @@ I believe that sharing knowledge and working together is the best way to grow as
 - I am open to **collaborations** on interesting projects
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
@@ -75,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
 
-### I create user experiences that are
+## I create user experiences that are
 
 - **User-friendly 👩‍💻**
 - **Responsive ✅**
@@ -86,10 +103,6 @@ You can click the Preview link to take a look at your changes.
 - **Load blazing fast 🚀**
 - **SEO Optimized 🔍**
 - **Crafted with pixel-perfect code ✨**
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xFaysal&title=-Stars,-Followers,-Reviews,-Issues&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -105,6 +118,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xFaysal&theme=monokai" alt="0xFaysal :: Profile Summary" /></p>
+
   <p><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=0xFaysal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
 
 ---
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Let's+connect+and+collaborate!;I+am+always+open+to+new+ideas;Feel+free+to+reach+out+to+me!" alt="Typing SVG" /></p>
