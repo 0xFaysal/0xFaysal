@@ -165,15 +165,23 @@ I believe that sharing knowledge and working together is the best way to grow as
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFaysal&langs_count=10&theme=tokyonight&layout=compact" alt="0xFaysal :: Top Langs" />
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFaysal&langs_count=10&theme=tokyonight&layout=compact" alt="0xFaysal :: Top Langs" />
   &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xFaysal&show_icons=true&theme=synthwave" alt="0xFaysal :: Profile Stats" /></p>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xFaysal&show_icons=true&theme=synthwave" alt="0xFaysal :: Profile Stats" /> -->
+  <img align="center"  src="https://github-readme-stats-salesp07.vercel.app/api?username=0xFaysal&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+
+</p>
+<p align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0xFaysal&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+</p>
 
 ---
 
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xFaysal&theme=monokai" alt="0xFaysal :: Profile Summary" /></p>
-
-  <p><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=0xFaysal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
+<p align="center">
+ <img align="center" width=51% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xFaysal&theme=tokyonight" alt="0xFaysal :: Profile Summary" />
+ <img align="center" width=45% alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=0xFaysal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
 
 ---
 
