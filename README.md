@@ -1,188 +1,100 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;I'm+Faysal+Ahmed;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></p>
 <p align="center">
-
-<img align="center" src="image/banner.png" alt="0xFaysal" />
-</p>
-
----
-<p align="right">
-<a href="https://www.linkedin.com/in/faysal-ahmed-fahim01" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-</a>
- <!-- <a href="https://twitter.com/0xFaysal" target="_blank">
- <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter">
- </a> -->
-  <a href="https://www.instagram.com/faysal_fahim_/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
+  <a href="https://0xfaysal.github.io/">
+    <img src="image/banner-ascii.png" width="840" alt="Faysal Ahmed Fahim, Full-Stack Developer, with an ASCII portrait">
   </a>
-  <a href="mailto:faysalfahim3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
-
-   <!-- <a href="https://www.facebook.com/FaysalAHMEDFAHIM/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook">
-   </a> -->
-   <!-- </a> <a href="https://www.youtube.com/@0xFaysal" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube"></a> <a href="https://www.twitch.tv/0xfaysal" target="_blank"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=Twitch&logoColor=white" alt="Twitch"></a> -->
-   </p>
-
-I am a passionate Full Stack Web Developer with a strong foundation in modern web technologies. My expertise lies in creating responsive, user-centric web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I have a deep understanding of frontend development with React.js and its ecosystem, complemented by robust backend development skills with Node.js and Express.js.
-
-#### I am always open to new ideas and suggestions, so feel free to reach out to me if you want to connect or collaborate on a project
-
-### 🌐 Web Development Expertise
-
-- **Frontend Development**:
-  - ⚛️ React.js
-  - 🎨 Tailwind CSS,CSS, DaisyUi, SASS,
-  - 📱 Responsive Design
-  - 🔄 State Management (Context API)
-
-- **Backend Development**:
-  - 🚀 Node.js & Express.js
-  - 📦 RESTful APIs
-  - 🗄️ MongoDB
-  - 🔥 Firebase
-
-- **Tools & Technologies**:
-  - 📊 Version Control (Git)
-  - 🛠️ Webpack, Babel
-  - 🔍 Chrome DevTools
-  - 📱 Progressive Web Apps (PWA)
-
-<!-- I am a passionate programmer and a tech enthusiast. I love to explore new technologies and learn new programming languages. I am currently focusing on web development and learning Computer Engineering fundamentals.I have experience in various programming languages such as C/C++, Java, JavaScript and Python. I am also familiar with web development frameworks like React and Node.js. I enjoy working on projects that challenge my skills and allow me to learn new things. I am always looking for opportunities to collaborate with other developers and contribute to open-source projects.
-
-I believe that sharing knowledge and working together is the best way to grow as a developer. In my free time, I like to read tech blogs, watch coding tutorials, and participate in coding challenges. -->
-
-### 🎯 Web Development Goals
-
-- 📈 Master Next.js and TypeScript
-- 🌐 Build scalable microservices
-- 🚀 Learn GraphQL
-- 💻 Contribute to major web development frameworks
-- 📱 Develop progressive web applications
-- 🔒 Enhance web security practices
-
-<br>
-
-### Professional Summary
-
-- 🎓 **Education**: Pursuing Computer Science at United International University (UIU)
-- 💻 **Technical Focus**:
-  - Advanced Data Structures & Algorithms in C/C++
-  - Full-stack Web Development with React.js & Node.js
-  - Automation & Scripting using Python
-  - Object-Oriented Programming in Java & JavaScript
-
-### Current Endeavors
-
-- 🔍 Researching and implementing advanced algorithms and data structures
-- 🌐 Developing responsive web applications using modern frameworks
-- 🤖 Exploring Machine Learning & Artificial Intelligence concepts
-- 🏆 Actively participating in competitive programming challenges
-- 🔄 Contributing to open-source projects
-
-### Professional Goals
-
-- 📈 Seeking software development internship opportunities
-- 🤝 Open to collaborative projects in web development and AI
-- 📚 Expanding expertise in cloud technologies and microservices
-- 🎯 Building scalable and innovative software solutions
-
-<!-- ### 💼 Featured Web Projects
-
-| Project | Tech Stack | Live Demo | Code |
-|---------|------------|-----------|------|
-| E-commerce Platform | React, Node.js, MongoDB | [Demo](link) | [Code](link) |
-| Social Media App | MERN Stack, Socket.io | [Demo](link) | [Code](link) |
-| Portfolio Website | Next.js, Tailwind | [Demo](link) | [Code](link) | -->
----
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
-<!-- Programming Languages -->
-<img height="32" width="32" src="https://cdn.simpleicons.org/c" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-
-<!-- Web Development - Frontend -->
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" alt="React router" title="React router" />
-
-<!-- Web Development - Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/000/fff" />
-
-<!-- Databases & Cloud -->
-<img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-
-<!-- Data Visualization -->
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="30" height="30"/>
-
-<!-- CSS Frameworks & Libraries -->
-<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/daisyui" />
-
-<!-- Version Control & Collaboration -->
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github/000/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/githubcopilot/000/fff" />
-
-<!-- Design Tools -->
-<img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/canva" />
-
-<!-- IDEs -->
-<img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/000/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/000/fff" />
 </p>
 
----
+# Faysal Ahmed Fahim
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+**Full-Stack Developer · Dhaka, Bangladesh**<br>
+CSE undergraduate at United International University
 
-## I create user experiences that are
+[Portfolio](https://0xfaysal.github.io/) · [Résumé (PDF)](https://0xfaysal.github.io/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/faysal-ahmed-fahim01) · [Email](mailto:faysalfahim3@gmail.com)
 
-- **User-friendly 👩‍💻**
-- **Responsive ✅**
-- **Intuitive 🤩**
-- **Dynamic 🧬**
-- **Reusable ♻️**
-- **Secure 🛡️**
-- **Load blazing fast 🚀**
-- **SEO Optimized 🔍**
-- **Crafted with pixel-perfect code ✨**
+I build web applications with **TypeScript, React, Next.js, Node.js, and PostgreSQL**. I’m open to **junior full-stack roles and software engineering internships**.
 
----
+## About me
 
-<h4 align="center">Visitor's count :eyes:</h4>
+I get excited when I come across something I don’t understand yet. I like to read enough to get started, try it for myself, and follow the questions that come up along the way. That’s how I pick up new tools quickly, and it’s what makes learning fun for me.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{0xFaysal}/count.svg" alt="0xFaysal :: Visitor's Count" /></p>
+I started exploring programming on my own around eighth or ninth grade. I liked watching an idea take shape on the screen, and over time that drew me to web development. These days, I enjoy following a feature all the way from what someone sees in the browser to what happens in the API and database.
 
----
+I’m also exploring **machine learning** and **cybersecurity**, with a focus on evaluating models on unfamiliar data and building more secure web applications.
+
+## Experience
+
+### Front-End Developer Intern · Algoel
+
+*Apr–Aug 2025*
+
+- Built responsive components using React, TypeScript, and Tailwind CSS. Contributed to product filtering, shopping cart behavior, and checkout across the e-commerce site.
+- Integrated REST APIs for authentication, the product catalog, and order status.
+- Fixed front-end bugs, refactored React components, and tested storefront flows across browsers.
+
+## Selected projects
+
+### ParkEase BD · Shared parking in Dhaka
+
+I built map-based search and contributed to the booking flow so drivers can find and reserve residential parking in Dhaka. The Node.js API uses PostgreSQL transactions to coordinate reservation holds.
+
+`Next.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Redis`<br>
+[Source code](https://github.com/0xFaysal/se-lab-wake-up-to-reality) · [Live demo](https://parkease-bd.vercel.app/)
+
+### HelioBay · Solar EV charging
+
+As technical lead for Team XEN, I integrated dashboards for live IoT telemetry and automated charging control on a solar EV charging platform. Team XEN earned **national gold in the Green Tech division at FIRSO Bangladesh 2026**.
+
+`Next.js` · `TypeScript` · `IoT`<br>
+[Source code](https://github.com/0xFaysal/HelioBay) · [Portfolio write-up](https://0xfaysal.github.io/#heliobay)
+
+### UNO-Mates · Real-time multiplayer card game
+
+I built a browser-based card game for 2–10 players with synchronized rooms and turn validation. I used Zustand for optimistic UI updates so players see their moves immediately.
+
+`Next.js` · `TypeScript` · `Supabase` · `Zustand` · `Playwright`<br>
+[Source code](https://github.com/0xFaysal/UNO-Mates) · [Live demo](https://uno-mates.vercel.app/)
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | ![TypeScript](https://img.shields.io/badge/TypeScript-202735?style=flat-square&logo=typescript&logoColor=66B3FF) ![JavaScript](https://img.shields.io/badge/JavaScript-202735?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-202735?style=flat-square&logo=python&logoColor=FFD343) ![C](https://img.shields.io/badge/C-202735?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/C%2B%2B-202735?style=flat-square&logo=cplusplus&logoColor=75C0FF) ![Java](https://img.shields.io/badge/Java-202735?style=flat-square&logo=openjdk&logoColor=FFA36C) |
+| Frontend | ![React](https://img.shields.io/badge/React-202735?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-202735?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-202735?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![Zustand](https://img.shields.io/badge/Zustand-202735?style=flat-square) ![daisyUI](https://img.shields.io/badge/daisyUI-202735?style=flat-square&logo=daisyui&logoColor=A5F5E5) |
+| Mobile and desktop | ![React Native](https://img.shields.io/badge/React%20Native-202735?style=flat-square&logo=react&logoColor=61DAFB) ![JavaFX](https://img.shields.io/badge/JavaFX-202735?style=flat-square&logo=openjdk&logoColor=FFA36C) |
+| Backend | ![Node.js](https://img.shields.io/badge/Node.js-202735?style=flat-square&logo=nodedotjs&logoColor=83CD61) ![Express](https://img.shields.io/badge/Express-202735?style=flat-square&logo=express&logoColor=FFFFFF) ![REST APIs](https://img.shields.io/badge/REST%20APIs-202735?style=flat-square) |
+| Databases and platforms | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202735?style=flat-square&logo=postgresql&logoColor=A6D2FF) ![MongoDB](https://img.shields.io/badge/MongoDB-202735?style=flat-square&logo=mongodb&logoColor=59DA80) ![Redis](https://img.shields.io/badge/Redis-202735?style=flat-square&logo=redis&logoColor=FF6D68) ![Supabase](https://img.shields.io/badge/Supabase-202735?style=flat-square&logo=supabase&logoColor=3ECF8E) ![Firebase](https://img.shields.io/badge/Firebase-202735?style=flat-square&logo=firebase&logoColor=FFCA28) |
+| Data access | ![Mongoose](https://img.shields.io/badge/Mongoose-202735?style=flat-square&logo=mongoose&logoColor=F28B82) ![Prisma](https://img.shields.io/badge/Prisma-202735?style=flat-square&logo=prisma&logoColor=E4E4FF) |
+| Scientific computing | ![NumPy](https://img.shields.io/badge/NumPy-202735?style=flat-square&logo=numpy&logoColor=72C7FF) |
+| Testing and tooling | <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/playwright/playwright-original.svg" width="20" height="20" alt=""> Playwright (basic) ![Git](https://img.shields.io/badge/Git-202735?style=flat-square&logo=git&logoColor=F7816C) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-202735?style=flat-square&logo=githubactions&logoColor=79B8FF) ![Linux](https://img.shields.io/badge/Linux-202735?style=flat-square&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-202735?style=flat-square&logo=docker&logoColor=69B5FF) |
+
+## Project activity
+
+<!-- PROJECT_ACTIVITY:START -->
+- [UNO-Mates](https://github.com/0xFaysal/UNO-Mates) · Last push 7 Nov 2026
+- [ParkEase BD](https://github.com/0xFaysal/se-lab-wake-up-to-reality) · Last push 4 Oct 2026
+- [HelioBay](https://github.com/0xFaysal/HelioBay) · Last push 4 Sept 2026
+<!-- PROJECT_ACTIVITY:END -->
+
+<sub>Push dates are refreshed by the <a href=".github/workflows/project-activity.yml">Project Activity workflow</a>.</sub>
+
+<details>
+<summary>GitHub stats</summary>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFaysal&langs_count=10&theme=tokyonight&layout=compact" alt="0xFaysal :: Top Langs" />
-  &nbsp;
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xFaysal&show_icons=true&theme=synthwave" alt="0xFaysal :: Profile Stats" /> -->
-  <img align="center"  src="https://github-readme-stats-salesp07.vercel.app/api?username=0xFaysal&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-
+  <img src="https://komarev.com/ghpvc/?username=0xFaysal&amp;label=Profile+views&amp;color=7aa2f7&amp;style=flat-square" alt="GitHub profile views">
 </p>
-<p align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0xFaysal&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-</p>
-
----
 
 <p align="center">
- <img align="center" width=51% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xFaysal&theme=tokyonight" alt="0xFaysal :: Profile Summary" />
- <img align="center" width=45% alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=0xFaysal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFaysal&amp;langs_count=10&amp;theme=tokyonight&amp;layout=compact" width="38%" alt="Most used languages across 0xFaysal's GitHub repositories">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=0xFaysal&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=github&amp;border_radius=10" width="59%" alt="Faysal Ahmed Fahim's GitHub stats">
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0xFaysal&amp;count_private=true&amp;theme=tokyonight&amp;border_radius=10" width="390" alt="Total contributions, current streak, and longest streak">
+</p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Let's+connect+and+collaborate!;I+am+always+open+to+new+ideas;Feel+free+to+reach+out+to+me!" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xFaysal&amp;theme=tokyonight" width="51%" alt="GitHub profile summary and yearly contribution trend">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=0xFaysal&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" width="45%" alt="Faysal Ahmed Fahim's recent GitHub contribution graph">
+</p>
+</details>

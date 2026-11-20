@@ -1,0 +1,44 @@
+name: Project Activity
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/scripts/update-project-activity.mjs
+      - .github/workflows/project-activity.yml
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: project-activity
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Update project activity
+        run: node .github/scripts/update-project-activity.mjs
+
+      - name: Publish README changes
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md
+          git commit -m 'Refresh project activity'
+          git push origin HEAD:main
