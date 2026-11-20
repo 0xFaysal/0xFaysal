@@ -31,6 +31,13 @@ I’m also exploring **machine learning** and **cybersecurity**, with a focus on
 - Integrated REST APIs for authentication, the product catalog, and order status.
 - Fixed front-end bugs, refactored React components, and tested storefront flows across browsers.
 
+## Achievements
+
+- **National Gold Medal · FIRSO Bangladesh 2026.** Team XEN won first place in the Green Tech division for HelioBay, a solar EV charging platform, and was selected to represent Bangladesh at the global final.
+- **National Top 20 Finalist · Data Privacy Avengers 2026.** Team Incognito Unit advanced to the on-site round at Robi Axiata PLC and received a Certificate of Appreciation.
+
+[Awards, photos, and certificate](https://0xfaysal.github.io/#awards)
+
 ## Selected projects
 
 ### ParkEase BD · Shared parking in Dhaka
@@ -42,7 +49,7 @@ I built map-based search and contributed to the booking flow so drivers can find
 
 ### HelioBay · Solar EV charging
 
-As technical lead for Team XEN, I integrated dashboards for live IoT telemetry and automated charging control on a solar EV charging platform. Team XEN earned **national gold in the Green Tech division at FIRSO Bangladesh 2026**.
+As technical lead for Team XEN, I integrated dashboards for live IoT telemetry and automated charging control on a solar EV charging platform.
 
 `Next.js` · `TypeScript` · `IoT`<br>
 [Source code](https://github.com/0xFaysal/HelioBay) · [Portfolio write-up](https://0xfaysal.github.io/#heliobay)
